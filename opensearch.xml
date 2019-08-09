@@ -1,0 +1,18 @@
+﻿<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>MasihTerjaga</ShortName>
+  <LongName>Masih Terjaga Blog Search</LongName>
+  <Description>Mencari konten acak di Masih Terjaga Blog</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <AdultContent>false</AdultContent>
+  <Language>id-ID</Language>
+  <Developer>Dian Sandi Utama</Developer>
+  <Contact>me.masyan@gmail.com</Contact>
+  <Tags>css html blogger web design</Tags>
+  <Attribution>Cari sesuatu di Masih Terjaga Blog http://blog.masihterjaga.id</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <Query role="example" searchTerms="Flexbox"/>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">http://blog.masihterjaga.id/favicon.ico</Image>
+  <Image height="64" width="64" type="image/png">https://2.bp.blogspot.com/-DNiraeBqWzg/XTrcQjbbOnI/AAAAAAAADTM/ZB003zGBv9w9yk6eEFDfgW0qZtefKTPKwCLcBGAs/s64/masihterjaga-512x512.png</Image>
+  <Url type="text/html" template="https://blog.masihterjaga.id/search/?q={searchTerms}"/>
+</OpenSearchDescription>
